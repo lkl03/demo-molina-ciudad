@@ -1,2 +1,7 @@
-# demo-molina-ciudad
-Demo web para Molina Ciudad — diseñada por eterlab.
+# Molina Ciudad
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
